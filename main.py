@@ -1,5 +1,3 @@
-# Dm me if you find any bugs or ways I can improve the Code.
-
 import pygame
 from random import randint
 
